@@ -1,0 +1,1 @@
+{"name":"English (US)","identifier":"en_US","version":null,"description":"This bot helps users book hotel rooms by collecting details like location, check-in and check-out dates, room type, and number of guests.\n","voiceSettings":{"voiceId":"Danielle","engine":"neural","speechFoundationModel":null},"nluConfidenceThreshold":0.4}
